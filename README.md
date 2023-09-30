@@ -36,12 +36,12 @@ Detailed usage instructions for each project can be found in their respective RE
 
 ## Screenshots
 
-![BMI Calculator](images/BMI_Calculator.png)
-![Background Color Switcher](images/Background_Color_Switcher.png)
-![Digital Clock](images/Digital_Clock.png)
-![Number Guessing Game](images/Number_Guessing_Game.png)
+![BMI Calculator](images/BMI%20Calc.png)
+![Background Color Switcher](images/Background%20color.png)
+![Digital Clock](images/Digital%20Clock.png)
+![Number Guessing Game](images/Guess%20the%20number.png)
 ![Keyboard](images/Keyboard.png)
-![Unlimited Colors](images/Unlimited_Colors.png)
+![Unlimited Colors](images/Unlimited%20Colors.png)
 
 ## Technologies Used
 
