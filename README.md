@@ -51,6 +51,6 @@ Detailed usage instructions for each project can be found in their respective RE
 
 ## Contributing
 
-We welcome contributions! If you have ideas for improvements or new mini projects, please check out our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions! If you have ideas for improvements or new mini projects.
 
 Happy coding!
