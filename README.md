@@ -7,20 +7,26 @@ Welcome to the JavaScript Mini Projects repository! This collection showcases a 
 1. **BMI Calculator**
    - Quickly determine your Body Mass Index (BMI) with this user-friendly tool. Enter your height and weight to assess your health status.
 
-2. **Background Color Switcher**
-   - A fun project that lets you change the background color with the click of a button, adding a touch of visual creativity to your web page.
+2. **Share Modal**
+   - The elegant solution for effortlessly sharing profiles with a touch of style.
 
-3. **Digital Clock**
-   - A simple yet functional project that displays the current time on your web page in a digital format, helping you keep track of time effortlessly.
-
-4. **Number Guessing Game**
-   - Test your guessing skills with this interactive game where you have 10 attempts to guess a random number between 1 and 100.
-
-5. **Keyboard**
+3. **Keyboard**
    - Explore the magic of keyboard events as this project dynamically displays the key, key code, and event code when a key is pressed.
 
-6. **Unlimited Colors**
+4. **Background Color Switcher**
+   - A fun project that lets you change the background color with the click of a button, adding a touch of visual creativity to your web page.
+
+5. **Digital Clock**
+   - A simple yet functional project that displays the current time on your web page in a digital format, helping you keep track of time effortlessly.
+
+6. **Number Guessing Game**
+   - Test your guessing skills with this interactive game where you have 10 attempts to guess a random number between 1 and 100.
+
+7. **Unlimited Colors**
    - Experience a dynamic background color changer that continuously cycles through a spectrum of hues, adding vibrancy and creativity to your webpage with a simple click.
+
+8. **Counter**
+   - A simple yet effective web application for easy counting with style.
 
 ## Getting Started
 
@@ -37,11 +43,13 @@ Detailed usage instructions for each project can be found in their respective RE
 ## Screenshots
 
 ![BMI Calculator](images/BMI%20Calc.png)
+![Share Modal](images/modal(2).png)
+![Keyboard](images/Keyboard.png)
 ![Background Color Switcher](images/Background%20color.png)
 ![Digital Clock](images/Digital%20Clock.png)
 ![Number Guessing Game](images/Guess%20the%20number.png)
-![Keyboard](images/Keyboard.png)
 ![Unlimited Colors](images/Unlimited%20Colors.png)
+![Counter](images/counter2.png)
 
 ## Technologies Used
 
