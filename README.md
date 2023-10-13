@@ -30,7 +30,7 @@ Welcome to the JavaScript Mini Projects repository! This collection showcases a 
 
 ## Usage
 
-For each project, you can access a live demo by clicking on the project title or screenshot on the [webpage](#).
+For each project, you can access a live demo by clicking on the project title or screenshot on the [webpage](https://skimran-coder.github.io/JavaScript_Mini_Projects/).
 
 Detailed usage instructions for each project can be found in their respective README files.
 
@@ -51,6 +51,6 @@ Detailed usage instructions for each project can be found in their respective RE
 
 ## Contributing
 
-We welcome contributions! If you have ideas for improvements or new mini projects, please check out our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions! If you have ideas for improvements or new mini projects.
 
 Happy coding!
