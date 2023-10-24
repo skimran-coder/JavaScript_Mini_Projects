@@ -6,6 +6,7 @@ Welcome to the JavaScript Mini Projects repository! This collection showcases a 
 
 1. **BMI Calculator**
    - Quickly determine your Body Mass Index (BMI) with this user-friendly tool. Enter your height and weight to assess your health status.
+
 ![BMI Calculator](images/BMI%20Calc.png)
 
 2. **Share Modal**
