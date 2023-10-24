@@ -6,6 +6,7 @@ Welcome to the JavaScript Mini Projects repository! This collection showcases a 
 
 1. **BMI Calculator**
    - Quickly determine your Body Mass Index (BMI) with this user-friendly tool. Enter your height and weight to assess your health status.
+![BMI Calculator](images/BMI%20Calc.png)
 
 2. **Share Modal**
    - The elegant solution for effortlessly sharing profiles with a touch of style.
@@ -42,7 +43,7 @@ Detailed usage instructions for each project can be found in their respective RE
 
 ## Screenshots
 
-![BMI Calculator](images/BMI%20Calc.png)
+
 ![Share Modal](images/modal(2).png)
 ![Keyboard](images/Keyboard.png)
 ![Background Color Switcher](images/Background%20color.png)
